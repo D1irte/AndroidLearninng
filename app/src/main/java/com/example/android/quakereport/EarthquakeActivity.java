@@ -31,7 +31,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import java.util.List;
 import java.util.ArrayList;
-/* testing*/
+/* testingtesting2222*/
 public class EarthquakeActivity extends AppCompatActivity {
     private EQAdapter adapter;
     public static final String LOG_TAG = EarthquakeActivity.class.getName();
